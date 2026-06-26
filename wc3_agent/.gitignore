@@ -1,5 +1,4 @@
 .claude
-env
 venv
 models
 logs
