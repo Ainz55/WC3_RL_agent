@@ -1,0 +1,34 @@
+{
+  "exit_defeat": {
+    "rx": 517,
+    "ry": 294
+  },
+  "ok_results": {
+    "rx": 836,
+    "ry": 630
+  },
+  "race_btn": {
+    "rx": 327,
+    "ry": 229
+  },
+  "race_human": {
+    "rx": 272,
+    "ry": 277
+  },
+  "difficulty_btn": {
+    "rx": 179,
+    "ry": 256
+  },
+  "difficulty_easy": {
+    "rx": 130,
+    "ry": 322
+  },
+  "start_game": {
+    "rx": 936,
+    "ry": 560
+  },
+  "exit_victory": {
+    "rx": 540,
+    "ry": 312
+  }
+}
